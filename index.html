@@ -24,7 +24,7 @@
     <header class="mb-3">
         <nav class="navbar navbar-dark bg-dark">
             <div class="container-fluid">
-                <span class="navbar-brand mb-0 h1">ﾖｼﾐjoy</span>
+                <span class="navbar-brand mb-0 h1">morio差分表</span>
             </div>
         </nav>
     </header>
@@ -82,14 +82,14 @@
                     $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
 
 // Title
-$("<td width='45%'>" +
+$("<td width='25%'>" +
     "<a href='https://bms-ir.org/new/song?songmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
 
                     // Artist
-                    $("<td width='40%'>" + info[i].artist + "</td>").appendTo(str);
+                    $("<td width='20%'>" + info[i].artist + "</td>").appendTo(str);
 
                     // Comment
-                    $("<td width='10%'>" + info[i].comment + "</td>").appendTo(str);
+                    $("<td width='20%'>" + info[i].comment + "</td>").appendTo(str);
                     str.appendTo(obj);
                     count++;
 
