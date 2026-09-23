@@ -1,0 +1,23 @@
+{"name" : "IBARAGI_YOSHIMI ChartTable","symbol" : "IY","data_url" : "https://script.google.com/macros/s/AKfycbwh8_hmEG17KEOjmCxCdKBnDqJoyvpt09gwwu-Tuq-BBiW42OhF86spMdzEf5U_rwVA/exec","level_order" : [],
+"course":[
+{"name":"IY_ChartDAN Season2 Tier0","constraint":["grade_mirror","gauge_lr2",""],"md5": ["b90fadbd310a2131f54333f3e9f96d69","8e765ad840c3dd611a187ad216818b65","238a1fecf0ad5bac027a8667a721d37d","980b7568638e93ac83692e320786ff6d"]},
+{"name":"IY_ChartDAN Season2 Tier1","constraint":["grade_mirror","gauge_lr2",""],"md5": ["740bd8fb2b326446e0621a938d77d3b7","22b9dfc03e46dbd9aa083647ac8ec382","f1d935b06e5b57073e3efc11b40045b1","720fc53ff356b25372d018d32cebde3a"]},
+{"name":"IY_ChartDAN Season2 Tier2","constraint":["grade_mirror","gauge_lr2",""],"md5": ["6c882bf284e5fb956b5a55004c164994","23ec31cbf0c6f4079a24a06bc94c959a","a3a44140238006fd66567d83beaa0f7e","c75fd717e0c4d56438059e95d9d9ae1b"]},
+{"name":"IY_ChartDAN Season2 Tier3","constraint":["grade_mirror","gauge_lr2",""],"md5": ["3c75caa9379f2f15ee82c49c35ae7bed","970c9e0d2af29ca6954b3d91451be601","488462df486b787b9f7907dfdb5af9a1","0fff9c31e624a0d39af9f438d4646f3f"]},
+{"name":"IY_ChartDAN Season2 Tier4","constraint":["grade_mirror","gauge_lr2",""],"md5": ["76f4c15d879032764c01ee3b53ed78f7","9cd8388e43cf33314fb48e005ab267f7","95469902364aac0159a7a6043797106e","b05a61c19b2f235ceff70172cdb1ffb3"]},
+{"name":"IY_ChartDAN Season2 Tier5","constraint":["grade_mirror","gauge_lr2",""],"md5": ["82951f626f5243f42e4017b3b9455ac0","c4684f75549bda4e02040e5413c35bc2","d280499033082f9e8f237fbe01aeae79","347a5f14e9377a4a6b967e23a09c2e4b"]},
+{"name":"IY_ChartDAN Season2 Tier6","constraint":["grade_mirror","gauge_lr2",""],"md5": ["f76df71331cac77624577097df072161","15d014d34bea3ddf8f353867d3ff159b","1df63f8f39f204d215af446e1d89f323","468cd7b788496fc8b0fc3dada8e49e11"]},
+{"name":"IY_ChartDAN Season2 Tier7","constraint":["grade_mirror","gauge_lr2",""],"md5": ["3cd27433beb5190f51e13f74d2d6412c","223834d49f706ab987f831b773161597","f219626fadd097eff55db568932590fd","3ff84cdde2cee4863bbe51bffe92dead"]},
+{"name":"IY_ChartDAN Season2 Tier8","constraint":["grade_mirror","gauge_lr2",""],"md5": ["1aa2da9df6391b1128fdb49d75b022e9","18c58a17968b1c9fe1986f89ee3a0112","886962d3ad5cf3bf2767c76662e384ee","c9e6f82a7a93457d2555edcefb73d305"]},
+{"name":"IY_ChartDAN Season2 Tier9","constraint":["grade_mirror","gauge_lr2",""],"md5": ["77c841989884bb23b5c6afb3e6254790","63ee1b1fbe7392046d67624479b17f8d","ab736a13d7d7551caae635069029afc9","8dadbfb32786d063c714888992b991ca"]},
+{"name":"IY_ChartDAN Season2 Tier10","constraint":["grade_mirror","gauge_lr2",""],"md5": ["8e54b3d36812b42db387a257df70252c","df3a580e6cdef7e8d88b55cd5a0f6d77","e770e0941c37f0d415a0c6d0a6a059b2","b881c715bcf00534e70aac2254c89dac"]},
+{"name":"IY_ChartDAN Season2 Tier11","constraint":["grade_mirror","gauge_lr2",""],"md5": ["c16a03b21441a74cb40a7e62655770ed","61f3884e42c1ddd1fcad9efeb2380ae0","ded2bc68a81a3b8a2998efb331c8e881","450d1a1bb0a067df19def443666a9a27"]},
+{"name":"IY_ChartDAN Season2 Tier12","constraint":["grade_mirror","gauge_lr2",""],"md5": ["20fde711bc0fe1102260aa597236b922","f52550406a621dde1e24219a4264ce31","4a4fc2a568b12802008a1eb09a6cb62d","951fdaf351a99dc8276381448877e1ba"]}
+
+
+
+
+
+
+
+]}
